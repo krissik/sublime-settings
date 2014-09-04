@@ -14,4 +14,16 @@
     "font_face": "Ubuntu Mono",
     "font_size": 12,
 
+    // Exiting the application with hot_exit enabled will cause it to close
+    // immediately without prompting. Unsaved modifications and open files will
+    // be preserved and restored when next starting.
+    //
+    // Closing a window with an associated project will also close the window
+    // without prompting, preserving unsaved changes in the workspace file
+    // alongside the project.
+    "hot_exit": false,
+
+    // Makes tabs with modified files more visible
+    "highlight_modified_tabs": true,
+
 }

@@ -26,4 +26,8 @@
     // Makes tabs with modified files more visible
     "highlight_modified_tabs": true,
 
+    // Set to true to automatically save files when switching to a different file
+    // or application
+    "save_on_focus_lost": true,
+
 }

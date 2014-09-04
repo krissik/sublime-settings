@@ -1,0 +1,17 @@
+{
+    "color_scheme": "Packages/User/Monokai (SL).tmTheme",
+    "draw_white_space": "all",
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "translate_tabs_to_spaces": true,
+
+    // Note that the font_face and font_size are overriden in the platform
+    // specific settings file, for example, "Preferences (Linux).sublime-settings".
+    // Because of this, setting them here will have no effect: you must set them
+    // in your User File Preferences.
+    "font_face": "Ubuntu Mono",
+    "font_size": 12,
+
+}
